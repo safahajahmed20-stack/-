@@ -1,0 +1,5 @@
+{
+  "name": "Cartoonify Me AI",
+  "description": "An application to convert personal photos into cartoon-style drawings with the ability to modify colors and backgrounds using AI.",
+  "requestFramePermissions": []
+}
